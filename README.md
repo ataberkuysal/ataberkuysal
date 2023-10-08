@@ -1,15 +1,13 @@
 ### Ataberk Uysal  - Backend Dev <p align="left">
 
 
-<a href="https://linkedin.com/in/ataberkuysal" target="blank"><img align="center" src="(https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)
-" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ataberkuysal" target="blank"><img align="center" src="https://github.com/ataberkuysal/ataberkuysal/assets/54504620/7cf3eff9-1552-4a37-8e62-836555499af3" alt="LinkedIn" height="30" width="100" /></a>
 </p>
-
 
 
 <p align="left">
 <a href="https://github.com/ataberkuysal/entertainment-media" target="blank">Check Out My Recent Self-Learning Project
-<img align="center" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
