@@ -2,9 +2,7 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/ataberkuysal" target="blank">
-    <img align="center" src="https://github.com/ataberkuysal/ataberkuysal/assets/54504620/7cf3eff9-1552-4a37-8e62-836555499af3" alt="LinkedIn" height="30" width="100" />
-  </a>
+<a href="https://linkedin.com/in/ataberkuysal" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin-horizontal.svg" alt="LinkedIn" height="40" width="150" /></a>
 </p>
 <br></br>
 
